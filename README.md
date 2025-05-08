@@ -1,6 +1,6 @@
-# Dashboard de Faturamento - Nacional Indústria Mecânica
+# Dashboard de Indicadores Financeiros - SX Lighting    
 
-Este projeto é um dashboard interativo desenvolvido em Streamlit para visualização dos dados de faturamento da empresa Nacional Indústria Mecânica.
+Este projeto é um dashboard interativo desenvolvido em Streamlit para visualização dos dados financeiros da SX Lighting  
 
 ## Funcionalidades
 - Gráfico de faturamento mensal
