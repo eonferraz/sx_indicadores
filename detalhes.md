@@ -14,3 +14,12 @@
 
 
 # Cruzamentos Estratégicos Relevantes
+
+| **Cruzamento**                            | **Visualização Ideal**          | **Insight**                                                                 |
+|-------------------------------------------|----------------------------------|------------------------------------------------------------------------------|
+| Receita Líquida vs Resultado Líquido      | Linha dupla                      | Avalia a rentabilidade líquida do crescimento de receita.                   |
+| Margem Bruta vs Custo por produto         | Barras por categoria             | Identifica produtos que pressionam margem.                                  |
+| Fluxo de Caixa vs Resultado Líquido       | Gráfico de dispersão             | Indica se lucro está sendo convertido em caixa.                             |
+| ROE vs WACC                               | Gráfico de barras comparativas   | Mede geração (ou destruição) de valor para o acionista.                     |
+| Dívida Líquida/EBITDA ao longo do tempo   | Linha com zonas de risco         | Monitora risco financeiro e necessidade de captação.                        |
+| Saldo de Tesouraria vs Despesas Fixas     | Colunas agrupadas                | Avalia a cobertura de obrigações de curto prazo.                            |
